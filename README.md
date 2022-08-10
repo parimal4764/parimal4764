@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Github
+- 🌱 I’m currently learning Github Actions
+- 👯 I’m looking to collaborate on Actions
+- 🤔 I’m looking for help with Actions
+- 💬 Ask me about Actions
+- 📫 How to reach me: Mobile
+- ⚡ Fun fact: Lets do it! :)
 <!--
 **parimal4764/parimal4764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
